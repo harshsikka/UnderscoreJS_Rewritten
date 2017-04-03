@@ -41,7 +41,7 @@ Scope of Functions to be Completed:
   <li><b>_.shuffle</b> - Randomizes the order of an array's contents</li>
 </ul>
 
-<b><u>Extra Credit</u></b>
+<b><u>Extra:</u></b>
 
 <ul>
   <li><b>_.invoke</b> - Calls the method named by functionOrKey on each value in the list</li>
